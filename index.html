@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="https://s1.ax1x.com/2023/07/21/pCHXsq1.png" sizes="32x32">
     <link rel="stylesheet" href="./other/main.css">
-    <title>卡尔斯厄-资源站（内部）</title>
+    <title>卡尔斯厄-资源站</title>
     <meta name="keywords" content="资源,昆明润城学校">
     <meta name="description" content="内部下载使用">
     <meta name="author" content="卡尔斯厄">
@@ -14,7 +14,7 @@
     <div class="ulc">
         <ul style="top:5px;">
             <li style="border-radius: 5px 0 0 5px;"><a href="index.html" class="dock">首页</a></li>
-            <li><a href="" class="dock">关于</a></li>
+            <li><a href="about.html" class="dock">关于</a></li>
             <li style="border-radius: 0 5px 5px 0;"><a href="http://kaersie.great-site.net/" class="dock">反馈</a></li>
     
             </ul>
@@ -26,7 +26,8 @@
         <p >                  </p>
         <img decoding="自站logo"  src="https://s1.ax1x.com/2023/07/21/pCHXsq1.png" width="120" height="120">
         <h1 id="headtitle">卡尔斯厄-资源站</h1>
-        <p >(仅限内部人员使用)</p>
+        <p >可在浏览器中寻找 查找 功能快速寻找你需要的资源</p>
+
     </div><br><br><br>
 <button id="redtext" class="redbutton">
         <p  style="text-align:center;color: white;font-size: 30px;" >{{title}}</p>
@@ -34,30 +35,12 @@
     </button><br><br><br><br><br><br>
 
 <div class="payit" id="pay">
-        <a href="https://dlink.host/lanzou/aHR0cHM6Ly9ncmFzcC5sYW56b3V0LmNvbS9pZ21TUzFreWZwY2Q.pdf"><button type="submit" class="linkbutton" >
-         <p class="lbh1">政治-需背内容统计</p>
-     </button></a> <br>
-     <a href="https://dlink.host/lanzou/aHR0cHM6Ly9ncmFzcC5sYW56b3V0LmNvbS9paHU2UDFreWZwZGUmcGFzc0NvZGU9ZXA3cA.pdf"><button type="submit" class="linkbutton" >
-        <p class="lbh1">政治-必修1、2 主观题模板</p>
-    </button></a> <br>
-    <a href="https://dlink.host/lanzou/aHR0cHM6Ly9ncmFzcC5sYW56b3V0LmNvbS9pV05RSzFreWZwZmcmcGFzc0NvZGU9ZHI5Mg.pdf"><button type="submit" class="linkbutton" >
-        <p class="lbh1">政治-必修1、2 常考句子</p>
-    </button></a> <br>
-    <a href="https://dlink.host/lanzou/aHR0cHM6Ly9ncmFzcC5sYW56b3V0LmNvbS9pOEd6bTFreWZwZWY.jpg"><button type="submit" class="linkbutton" >
-        <p class="lbh1">政治-必修1 知识手册</p>
-    </button></a> <br>
-    <a href="https://dlink.host/lanzou/aHR0cHM6Ly9ncmFzcC5sYW56b3V0LmNvbS9pS0pDazFreWZwamEmcGFzc0NvZGU9.pdf"><button type="submit" class="linkbutton" >
-        <p class="lbh1">政治-必修2 知识手册</p>
-    </button></a> <br>
-    <a href="https://dlink.host/lanzou/aHR0cHM6Ly9ncmFzcC5sYW56b3V0LmNvbS9pVk5wMjFreWZwZ2gmcGFzc0NvZGU9M3V4Ng.pptx"><button type="submit" class="linkbutton" >
-        <p class="lbh1">英语-必修2 Unit1 补充单词</p>
-    </button></a> <br>
-    <a href="https://dlink.host/lanzou/aHR0cHM6Ly9ncmFzcC5sYW56b3V0LmNvbS9pU3pqTzFreWZwaGkmcGFzc0NvZGU9M2g4cw.pptx"><button type="submit" class="linkbutton" >
-        <p class="lbh1">英语-必修2 Unit2 补充单词</p>
-    </button></a> <br>
-    <a href="https://dlink.host/lanzou/aHR0cHM6Ly9ncmFzcC5sYW56b3V0LmNvbS9paUhCTjFreWZwaWomcGFzc0NvZGU9ZWJmcA.pptx"><button type="submit" class="linkbutton" >
-        <p class="lbh1">英语-必修2 Unit3 补充单词</p>
-    </button></a> <br>
+    <a href="pages/chinese.html"><button type="submit" class="linkbutton" ><p class="lbh1">语文-学习资源推荐</p></button></a> <br>
+    <a href="pages/math.html"><button type="submit" class="linkbutton" ><p class="lbh1">数学-学习资源推荐</p></button></a> <br>
+    <a href="pages/eng.html"><button type="submit" class="linkbutton" ><p class="lbh1">英语-学习资源推荐</p></button></a> <br>
+    <a href="pages/other.html"><button type="submit" class="linkbutton" ><p class="lbh1">其他学科-学习资源推荐</p></button></a> <br>
+
+    <div><div id="rcneed"></div></div>
 </div>
 <script src="./other/main.js"></script>
 <script src="https://cdn.staticfile.org/vue/2.2.2/vue.min.js"></script>
@@ -66,14 +49,14 @@
         el:'#redtext',
         data(){
             return{
-            title:'本网站仅限昆明润城学校高一同学使用下载',
-            times:'2024.1.13'
+            title:'本网站资源已更新',
+            times:'2024.1.24'
             }
         }
     })
 </script>
 </body>
 <footer>
-    <p id="banquan">copyright 2024 卡尔斯厄 保留所有权利</p>
+    <p id="banquan">Copyright 2024 卡尔斯厄 保留所有权利</p>
 </footer>
 </html>
