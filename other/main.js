@@ -33,6 +33,8 @@ function cc(){
 '<a href="https://dlink.host/lanzou/aHR0cHM6Ly9ncmFzcC5sYW56b3V0LmNvbS9pVk5wMjFreWZwZ2gmcGFzc0NvZGU9M3V4Ng.pptx"><button type="submit" class="linkbutton" ><p class="lbh1">英语-必修2 Unit1 补充单词</p></button></a> <br>'+
 '<a href="https://dlink.host/lanzou/aHR0cHM6Ly9ncmFzcC5sYW56b3V0LmNvbS9pU3pqTzFreWZwaGkmcGFzc0NvZGU9M2g4cw.pptx"><button type="submit" class="linkbutton" ><p class="lbh1">英语-必修2 Unit2 补充单词</p></button></a> <br>'+
 '<a href="https://dlink.host/lanzou/aHR0cHM6Ly9ncmFzcC5sYW56b3V0LmNvbS9paUhCTjFreWZwaWomcGFzc0NvZGU9ZWJmcA.pptx"><button type="submit" class="linkbutton" ><p class="lbh1">英语-必修2 Unit3 补充单词</p></button></a> <br>'+
-'<a href="https://grasp.lanzout.com/iGHxZ1m4yo0b"><button type="submit" class="linkbutton" ><p class="lbh1">假期作业</p></button></a> <br>'
+'<a href="https://grasp.lanzout.com/iGHxZ1m4yo0b"><button type="submit" class="linkbutton" ><p class="lbh1">假期作业</p></button></a> <br>'+
+'<a href="https://grasp.lanzout.com/iwidh1m9au2f"><button type="submit" class="linkbutton" ><p class="lbh1">生物-假期作业答案1（做完作业再看哦）</p></button></a> <br>'
+
 }
            
