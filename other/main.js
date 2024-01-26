@@ -34,7 +34,7 @@ function cc(){
 '<a href="https://dlink.host/lanzou/aHR0cHM6Ly9ncmFzcC5sYW56b3V0LmNvbS9pU3pqTzFreWZwaGkmcGFzc0NvZGU9M2g4cw.pptx"><button type="submit" class="linkbutton" ><p class="lbh1">英语-必修2 Unit2 补充单词</p></button></a> <br>'+
 '<a href="https://dlink.host/lanzou/aHR0cHM6Ly9ncmFzcC5sYW56b3V0LmNvbS9paUhCTjFreWZwaWomcGFzc0NvZGU9ZWJmcA.pptx"><button type="submit" class="linkbutton" ><p class="lbh1">英语-必修2 Unit3 补充单词</p></button></a> <br>'+
 '<a href="https://grasp.lanzout.com/iGHxZ1m4yo0b"><button type="submit" class="linkbutton" ><p class="lbh1">假期作业</p></button></a> <br>'+
-'<a href="http://develope-oss.lanzouc.com/file/?UjQFOw08BzYDCgszU2ZSPgY5ADhR6wCTCqVaugHXBqIDMgVmXi4DZgNjAXlQflM7ACpVdlJrVD9WPVU2VFdbM1I2BW8NYQdlA2ULbFMyUmsGZAA8UTkAJAprWi8BYAY2AzIFYV42A28DZgFhUDxTdAAqVSBSMFRkVmFVYVQ8W3VSYgVjDX8HYQNjC3JTY1I3BmwAY1E9ADQKPVo4AWkGMgM1BWVeNgNkAzEBYlA0UzEAP1U0Uj1UblZiVWVUMVtoUmMFYg00BzEDZQs4UylSKQY1AHVRKAB3Cn5aOQEvBm4DZwVvXjEDYQNtAWNQM1NlAG5VdlJ5VD9WPFU2VG5bZ1JjBWUNYAdlA2cLblMyUmQGbQA9USAALAorWjoBMQZwAz4FYl4lAyIDJQEgUDlTYwBtVWBSO1RkVmJVZ1Q/W2pSZgV0DSUHOgMlC2BTNlJhBmwAK1E8ADYKI1poAWgGKQM0BWo="><button type="submit" class="linkbutton" ><p class="lbh1">（假期作业补充1）英语-周报14-16</p></button></a> <br>'+
+'<a href="https://grasp.lanzout.com/iqIQ11mbqd8h"><button type="submit" class="linkbutton" ><p class="lbh1">（假期作业补充1）英语-周报14-16</p></button></a> <br>'+
 '<a href="https://grasp.lanzout.com/iwidh1m9au2f"><button type="submit" class="linkbutton" ><p class="lbh1">（假期作业补充2）生物-答案1（做完作业再看哦）</p></button></a> <br>'
 
 }
