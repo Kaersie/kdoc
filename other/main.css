@@ -6,8 +6,8 @@
 }
 @media (min-width: 768px) {
     ul{ position:fixed;z-index: 5;top:5px;}
-    .linkbutton2{   margin-left: 30px;}
-    .linkbutton{   margin-left: 30px;}
+    .linkbutton2{margin-left: 30px;}
+    .linkbutton{ margin-left: 30px;}
     .lbh1{color:#005393;font-size: 25px;text-align: left;margin-left: 20px; }
     .lbh2{color:#005393;font-size: 30px;text-align: left;margin-left: 20px;font-weight: bold }
 

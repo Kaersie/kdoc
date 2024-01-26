@@ -6,6 +6,7 @@ if(x=="user=1"){
     var box=document.getElementById('pay');
     cc();
 }
+
 for(;b==0;){
     let a=prompt("请输入解锁口令（普通用户输入:0000,校级用户请私信站长）");
 	var x = document.cookie;
